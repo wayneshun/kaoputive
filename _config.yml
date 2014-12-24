@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            许卫栋
+title:            waynehsu
 tagline:          ''
-description:      'Coding The World'
+description:      'day day study'
 url:              http://www.kaoputive.com
 
 author:
   name:           'waynehsu'
-  url:            http://www.kaoputive.com
+  url:            http://kaoputive.com
 
 paginate:         5
