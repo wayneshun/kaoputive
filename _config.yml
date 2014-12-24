@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            许卫栋
+tagline:          ''
+description:      'Coding The World'
+url:              http://www.kaoputive.com
+
+author:
+  name:           'waynehsu'
+  url:            http://www.kaoputive.com
+
+paginate:         5
