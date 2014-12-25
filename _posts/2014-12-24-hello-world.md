@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 你好，世界
+title: 互联网如何改造传统行业？
 ---
 　　
 <h2>{{ page.title }}</h2>
