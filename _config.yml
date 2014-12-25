@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            waynehsu
+title:            Crosslife
 tagline:          ''
-description:      'day day study'
-url:              http://www.kaoputive.com
+description:      'Coding The World'
+url:              http://www.geziyang.com
 
 author:
-  name:           'waynehsu'
-  url:            http://kaoputive.com
+  name:           'geziyang'
+  url:            http://geziyang.com
 
 paginate:         5
